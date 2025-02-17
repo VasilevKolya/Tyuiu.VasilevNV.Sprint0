@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using Tyuiu.VasilevNV.Sprint0.Task6.V0.Lib
+using Tyuiu.VasilevNV.Sprint0.Task6.V0.Lib;
 
 namespace Tyuiu.VasilevNV.Sprint0.Task6.V0.Test
 {
